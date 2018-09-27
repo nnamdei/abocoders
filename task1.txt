@@ -1,0 +1,1 @@
+Create a HTML Document with the basic information in Head and at least a paragraph with an inline css to align it to the center of the page.

@@ -1,0 +1,31 @@
+FIRST STEPS TO GET STARTED
+
+1. Launch Command Prompt 
+
+2. Navigate to Documents Folder with cd Documents
+
+3. Type git clone https://github.com/nnamdei/abocoders
+
+4. Create a Folder titled your with yourfirstname inside clone folder 'abocoders' from No. 3
+
+5. Create a file with the solution to the task and put into the folder in No. 4
+
+6. Navigate to the command prompt in No. 3 and type cd abocoders
+
+7. Type git add .
+
+8. Type git commit -m ""
+
+9. Type git push -u origin master
+
+
+Please Note 
+
+- "" in No. 8 is to have a descriptive message describing the status of the task.
+
+- Remember to change the git config --global user.name your-name and git config --global user.email youremail@gmail.com where you are sharing the same computer system.
+
+- Always use git pull to check for update to avoid conflicts and update your local copy
+
+
+

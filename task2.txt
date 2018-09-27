@@ -1,0 +1,9 @@
+Update Task 1 with the following;
+
+1. a Navigation bar with space for logo and sections for about us, contact us.
+
+2. a footer with 'All Rights Reserved" with a background colour(in hexcode) of black
+ 
+3. The Logo, About Us and Contact Us should have hyperlinks.
+
+Submission for Task 1 and 2 is Saturday.
